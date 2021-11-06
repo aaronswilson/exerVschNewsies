@@ -30,6 +30,16 @@ body {
     vertical-align: super;
 }
 
+.kryptonite {
+    color: green;
+    font-weight: bold;
+}
+
+.yeah {
+    font-weight: bolder;
+    color: red;
+}
+
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: large
